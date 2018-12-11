@@ -3,4 +3,9 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CollapseSelection" />
+  <action id="EditorChooseLookupItemDot" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="ctrl period" />
+  </action>
 </keymap>
